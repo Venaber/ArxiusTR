@@ -1,5 +1,3 @@
-// Treball de Recerca: Elaboració d'un Dron | Alumne: Fabio Mora Melero; Tutor: Albert Esteve | Institut Josep Lluís Sert 2022-2023
-
 // El codi del disseny final coincideix amb el de la implementació App + Bluetooth
 
 

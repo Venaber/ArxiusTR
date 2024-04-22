@@ -1,9 +1,9 @@
-## Treball de Recerca: Elaboració d'un Dron | Alumne: Fabio Mora Melero; Tutor: Albert Esteve | Institut Josep Lluís Sert 2022-2023
+## Treball de Recerca: Elaboració d'un Dron
 
 ### Llicencia respecte als codis, en Català:
 Llicència MIT
 
-Copyright (c) 2023 Fabio Mora Melero
+Copyright (c) 2023 Venaber
 
 Es concedeix per la present, de manera gratuïta, a qualsevol persona que obtingui una còpia
 d'aquest programari i els fitxers de documentació associats (el "Programari"), el dret
@@ -34,7 +34,7 @@ PROGRAMARI O EL SEU ÚS O ALTRES TRACTAMENTS EN EL PROGRAMARI.
 ### License regarding the codes, in English:
 MIT License
 
-Copyright (c) 2023 Fabio Mora Melero
+Copyright (c) 2023 Venaber
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

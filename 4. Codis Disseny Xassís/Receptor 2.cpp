@@ -1,5 +1,3 @@
-// Treball de Recerca: Elaboració d'un Dron | Alumne: Fabio Mora Melero; Tutor: Albert Esteve | Institut Josep Lluís Sert 2022-2023
-
 // Aquest codi el vaig fer a partir del "Receptor 1.cpp" i vaig modificar el que jo pensava que m'estava causant problemes
 
 

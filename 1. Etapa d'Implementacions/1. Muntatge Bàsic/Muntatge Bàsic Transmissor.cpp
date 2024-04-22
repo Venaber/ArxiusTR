@@ -1,6 +1,3 @@
-// Treball de Recerca: Elaboració d'un Dron | Alumne: Fabio Mora Melero; Tutor: Albert Esteve | Institut Josep Lluís Sert 2022-2023
-
-
 /****  Llibreries  ****/
 // Importo la llibreria <Arduino.h> perquè estic utilitzant platformIO IDE amb VSCode, en altres IDEs casos no cal incloure'l (e.g. Arduino IDE)
 #include <Arduino.h>
@@ -154,10 +151,10 @@ void loop() {
   pitch = map(josyticks[3], 0, 1023, 100, -100); 
 
   // Motor Mixing Algorithm. Més informació: http://www.rcindia.org/multirotors/arduino-quadcopter/new/#new
-  velocitats[0] = throttle + pitch + roll + yaw; // Motor arriba a la izquierda (CCW) (Motor 1)
-  velocitats[1] = throttle + pitch - roll - yaw; // Motor arriba a la derecha (CW) (Motor 2)
-  velocitats[2] = throttle - pitch + roll - yaw; // Motor abajo a la izquierda (CW) (Motor 3)
-  velocitats[3] = throttle - pitch - roll + yaw; // Motor abajo a la derecha (CWW) (Motor 4)
+  velocitats[0] = throttle + pitch + roll + yaw; // Motor a dalt a l'esquerra (CCW) (Motor 1)
+  velocitats[1] = throttle + pitch - roll - yaw; // Motor a dalt a la dreta (CW) (Motor 2)
+  velocitats[2] = throttle - pitch + roll - yaw; // Motor a baix a l'esquerra (CW) (Motor 3)
+  velocitats[3] = throttle - pitch - roll + yaw; // Motor a baix a la dreta (CWW) (Motor 4)
 
 
   /****  NRF24L01  ****/

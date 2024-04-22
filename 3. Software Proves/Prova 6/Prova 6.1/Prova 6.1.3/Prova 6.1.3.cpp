@@ -1,5 +1,3 @@
-// Treball de Recerca: Elaboració d'un Dron | Alumne: Fabio Mora Melero; Tutor: Albert Esteve | Institut Josep Lluís Sert 2022-2023
-
 // Excepcionalment, aquest codi va ser extremadament semblant a l'original: https://github.com/adafruit/Adafruit_BMP280_Library/blob/master/examples/bmp280test/bmp280test.ino
 // Vaig eliminar unes parts innecessàries que serveixen per a la comunicació SPI, la qual jo no empro.
 

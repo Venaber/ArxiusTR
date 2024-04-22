@@ -1,5 +1,3 @@
-// Treball de Recerca: Elaboració d'un Dron | Alumne: Fabio Mora Melero; Tutor: Albert Esteve | Institut Josep Lluís Sert 2022-2023
-
 // En el cas del transmissor, el codi per a l'elaboració no varia
 
 
